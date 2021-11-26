@@ -1,7 +1,5 @@
 # Speech Recognition System for Continuous Bangla Speech
 
-## RESEARCH METHODOLOGY
-
 ### SPEECH SEGMENTATION
 #### Speech Segmentation using Short-time Energy Feature
 ##### Short-Time Signal Energy
@@ -28,10 +26,14 @@ Comparison study on some improved and faster BP algorithms:
 #### Conjugate gradient and 
 #### Levenberg-Marquardt Algorithm
 
-## IMPLEMENTATION
+### IMPLEMENTATION
 Using Matlab Neural Network Toolbox 7.12.0
 
-## DATASET
+### DATASET
+100 (one hundred) Bangla sentences, recorded from 5 (five) speakers. There are 656 words in the 100 Bangla sentences. Thus, the speech database contains 500 (100x5) Bangla sentences with 3280 (656x5) words. 
+
+### Contact
+Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
 
 
 
