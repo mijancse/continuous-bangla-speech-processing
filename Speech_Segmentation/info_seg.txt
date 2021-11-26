@@ -1,0 +1,115 @@
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: MI001.wav
+No. of Segments: 9
+Segment[ 1]: 4200
+Segment[ 2]: 5400
+Segment[ 3]: 5100
+Segment[ 4]: 4500
+Segment[ 5]: 4900
+Segment[ 6]: 4600
+Segment[ 7]: 2500
+Segment[ 8]: 2700
+Segment[ 9]: 3200
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M25.wav
+No. of Segments: 10
+Segment[ 1]: 5500
+Segment[ 2]: 5000
+Segment[ 3]: 6400
+Segment[ 4]: 4400
+Segment[ 5]: 4400
+Segment[ 6]: 7600
+Segment[ 7]: 4600
+Segment[ 8]: 5000
+Segment[ 9]: 5700
+Segment[10]: 4900
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M15.wav
+No. of Segments: 6
+Segment[ 1]: 6000
+Segment[ 2]: 7500
+Segment[ 3]: 5600
+Segment[ 4]: 5400
+Segment[ 5]: 6600
+Segment[ 6]: 5300
+Speech File: M55.wav
+No. of Segments: 10
+Segment[ 1]: 4700
+Segment[ 2]: 6000
+Segment[ 3]: 7800
+Segment[ 4]: 5900
+Segment[ 5]: 6900
+Segment[ 6]: 5300
+Segment[ 7]: 5800
+Segment[ 8]: 6000
+Segment[ 9]: 5900
+Segment[10]: 8000
