@@ -1,4 +1,5 @@
 # Speech Recognition System for Continuous Bangla Speech
+Read 'Summary Paper.pdf' 
 
 ### SPEECH SEGMENTATION
 #### Speech Segmentation using Short-time Energy Feature
