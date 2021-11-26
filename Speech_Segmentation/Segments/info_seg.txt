@@ -1,0 +1,1004 @@
+Speech File: MI001.wav
+Word Segments: 8
+WordSeg[ 1]: Start =     1  End =  4200 Samples =  4200
+WordSeg[ 2]: Start =  6401  End = 11800 Samples =  5400
+WordSeg[ 3]: Start = 14001  End = 19100 Samples =  5100
+WordSeg[ 4]: Start = 20901  End = 25400 Samples =  4500
+WordSeg[ 5]: Start = 27801  End = 32700 Samples =  4900
+WordSeg[ 6]: Start = 35201  End = 39800 Samples =  4600
+WordSeg[ 7]: Start = 41801  End = 47000 Samples =  5200
+WordSeg[ 8]: Start = 49001  End = 52200 Samples =  3200
+Speech File: MI002.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  1101  End =  5300 Samples =  4200
+WordSeg[ 2]: Start =  7701  End = 11300 Samples =  3600
+WordSeg[ 3]: Start = 13601  End = 17300 Samples =  3700
+WordSeg[ 4]: Start = 20201  End = 25200 Samples =  5000
+WordSeg[ 5]: Start = 27201  End = 30600 Samples =  3400
+WordSeg[ 6]: Start = 33401  End = 35800 Samples =  2400
+Speech File: MI003.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1601  End =  5800 Samples =  4200
+WordSeg[ 2]: Start =  9101  End = 15100 Samples =  6000
+WordSeg[ 3]: Start = 17501  End = 23900 Samples =  6400
+WordSeg[ 4]: Start = 26301  End = 31200 Samples =  4900
+WordSeg[ 5]: Start = 34001  End = 39800 Samples =  5800
+WordSeg[ 6]: Start = 42701  End = 48100 Samples =  5400
+WordSeg[ 7]: Start = 49901  End = 55300 Samples =  5400
+WordSeg[ 8]: Start = 57801  End = 62400 Samples =  4600
+WordSeg[ 9]: Start = 64801  End = 68200 Samples =  3400
+Speech File: MI004.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  3001  End =  8700 Samples =  5700
+WordSeg[ 2]: Start = 10601  End = 17100 Samples =  6500
+WordSeg[ 3]: Start = 19001  End = 23400 Samples =  4400
+WordSeg[ 4]: Start = 26001  End = 31800 Samples =  5800
+WordSeg[ 5]: Start = 35001  End = 41000 Samples =  6000
+WordSeg[ 6]: Start = 43901  End = 48900 Samples =  5000
+WordSeg[ 7]: Start = 51801  End = 56000 Samples =  4200
+Speech File: MI005.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  1301  End =  5600 Samples =  4300
+WordSeg[ 2]: Start =  8101  End = 13500 Samples =  5400
+WordSeg[ 3]: Start = 15801  End = 20500 Samples =  4700
+WordSeg[ 4]: Start = 23201  End = 27800 Samples =  4600
+WordSeg[ 5]: Start = 31001  End = 35300 Samples =  4300
+WordSeg[ 6]: Start = 38501  End = 43900 Samples =  5400
+WordSeg[ 7]: Start = 46501  End = 51100 Samples =  4600
+WordSeg[ 8]: Start = 54201  End = 58600 Samples =  4400
+WordSeg[ 9]: Start = 61301  End = 66600 Samples =  5300
+WordSeg[10]: Start = 69001  End = 72800 Samples =  3800
+Speech File: MI006.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2901  End =  9600 Samples =  6700
+WordSeg[ 2]: Start = 12201  End = 17200 Samples =  5000
+WordSeg[ 3]: Start = 19601  End = 24900 Samples =  5300
+WordSeg[ 4]: Start = 27801  End = 33800 Samples =  6000
+WordSeg[ 5]: Start = 36101  End = 41000 Samples =  4900
+WordSeg[ 6]: Start = 43501  End = 48400 Samples =  4900
+WordSeg[ 7]: Start = 51301  End = 54900 Samples =  3600
+Speech File: MI007.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  2901  End =  9300 Samples =  6400
+WordSeg[ 2]: Start = 10801  End = 17000 Samples =  6200
+WordSeg[ 3]: Start = 19301  End = 24800 Samples =  5500
+WordSeg[ 4]: Start = 27701  End = 32000 Samples =  4300
+WordSeg[ 5]: Start = 33601  End = 38700 Samples =  5100
+WordSeg[ 6]: Start = 41601  End = 47000 Samples =  5400
+WordSeg[ 7]: Start = 48801  End = 51300 Samples =  2500
+WordSeg[ 8]: Start = 51901  End = 54600 Samples =  2700
+WordSeg[ 9]: Start = 56801  End = 61700 Samples =  4900
+WordSeg[10]: Start = 64801  End = 67400 Samples =  2600
+Speech File: MI008.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2301  End = 10700 Samples =  8400
+WordSeg[ 2]: Start = 13401  End = 17400 Samples =  4000
+WordSeg[ 3]: Start = 21101  End = 26500 Samples =  5400
+WordSeg[ 4]: Start = 28901  End = 34000 Samples =  5100
+WordSeg[ 5]: Start = 36601  End = 41900 Samples =  5300
+WordSeg[ 6]: Start = 44701  End = 49900 Samples =  5200
+WordSeg[ 7]: Start = 52501  End = 56700 Samples =  4200
+WordSeg[ 8]: Start = 59801  End = 62600 Samples =  2800
+Speech File: MI009.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2301  End =  7100 Samples =  4800
+WordSeg[ 2]: Start =  9501  End = 15800 Samples =  6300
+WordSeg[ 3]: Start = 18101  End = 25100 Samples =  7000
+WordSeg[ 4]: Start = 27301  End = 33000 Samples =  5700
+WordSeg[ 5]: Start = 35901  End = 38000 Samples =  2100
+WordSeg[ 6]: Start = 38601  End = 41600 Samples =  3000
+WordSeg[ 7]: Start = 44601  End = 48100 Samples =  3500
+Speech File: MI010.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  2001  End =  7400 Samples =  5400
+WordSeg[ 2]: Start = 10701  End = 14300 Samples =  3600
+WordSeg[ 3]: Start = 17201  End = 21800 Samples =  4600
+WordSeg[ 4]: Start = 25301  End = 28900 Samples =  3600
+WordSeg[ 5]: Start = 32501  End = 35500 Samples =  3000
+Speech File: MI011.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1701  End =  6700 Samples =  5000
+WordSeg[ 2]: Start =  9401  End = 15200 Samples =  5800
+WordSeg[ 3]: Start = 16801  End = 21000 Samples =  4200
+WordSeg[ 4]: Start = 23601  End = 29000 Samples =  5400
+WordSeg[ 5]: Start = 31601  End = 37300 Samples =  5700
+WordSeg[ 6]: Start = 40601  End = 46500 Samples =  5900
+WordSeg[ 7]: Start = 48801  End = 56500 Samples =  7700
+WordSeg[ 8]: Start = 57901  End = 64200 Samples =  6300
+WordSeg[ 9]: Start = 66601  End = 69800 Samples =  3200
+Speech File: MI011.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1701  End =  6700 Samples =  5000
+WordSeg[ 2]: Start =  9401  End = 15200 Samples =  5800
+WordSeg[ 3]: Start = 16801  End = 21000 Samples =  4200
+WordSeg[ 4]: Start = 23601  End = 29000 Samples =  5400
+WordSeg[ 5]: Start = 31601  End = 37300 Samples =  5700
+WordSeg[ 6]: Start = 40601  End = 46500 Samples =  5900
+WordSeg[ 7]: Start = 48801  End = 56500 Samples =  7700
+WordSeg[ 8]: Start = 57901  End = 64200 Samples =  6300
+WordSeg[ 9]: Start = 66601  End = 69800 Samples =  3200
+Speech File: MI012.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  1801  End =  7200 Samples =  5400
+WordSeg[ 2]: Start =  9701  End = 14200 Samples =  4500
+WordSeg[ 3]: Start = 17301  End = 22600 Samples =  5300
+WordSeg[ 4]: Start = 25901  End = 32400 Samples =  6500
+WordSeg[ 5]: Start = 34401  End = 40600 Samples =  6200
+WordSeg[ 6]: Start = 43101  End = 46800 Samples =  3700
+WordSeg[ 7]: Start = 50001  End = 55200 Samples =  5200
+WordSeg[ 8]: Start = 57901  End = 60300 Samples =  2400
+WordSeg[ 9]: Start = 60901  End = 64800 Samples =  3900
+WordSeg[10]: Start = 67401  End = 70600 Samples =  3200
+Speech File: MI013.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  3901  End =  7900 Samples =  4000
+WordSeg[ 2]: Start = 12301  End = 18600 Samples =  6300
+WordSeg[ 3]: Start = 21701  End = 26000 Samples =  4300
+WordSeg[ 4]: Start = 29501  End = 34800 Samples =  5300
+WordSeg[ 5]: Start = 38601  End = 43400 Samples =  4800
+WordSeg[ 6]: Start = 46901  End = 51400 Samples =  4500
+Speech File: MI014.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  1801  End =  4200 Samples =  2400
+WordSeg[ 2]: Start =  4701  End =  8000 Samples =  3300
+WordSeg[ 3]: Start = 11001  End = 16700 Samples =  5700
+WordSeg[ 4]: Start = 20301  End = 26600 Samples =  6300
+WordSeg[ 5]: Start = 29801  End = 35100 Samples =  5300
+WordSeg[ 6]: Start = 38101  End = 43800 Samples =  5700
+WordSeg[ 7]: Start = 47501  End = 53300 Samples =  5800
+Speech File: MI015.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1501  End =  9100 Samples =  7600
+WordSeg[ 2]: Start = 11501  End = 15800 Samples =  4300
+WordSeg[ 3]: Start = 18501  End = 24200 Samples =  5700
+WordSeg[ 4]: Start = 27401  End = 30700 Samples =  3300
+WordSeg[ 5]: Start = 34101  End = 39100 Samples =  5000
+WordSeg[ 6]: Start = 42101  End = 46300 Samples =  4200
+WordSeg[ 7]: Start = 49301  End = 53900 Samples =  4600
+WordSeg[ 8]: Start = 57201  End = 62200 Samples =  5000
+WordSeg[ 9]: Start = 65101  End = 68500 Samples =  3400
+Speech File: MI016.wav
+Word Segments: 11
+WordSeg[ 1]: Start =  1701  End =  6700 Samples =  5000
+WordSeg[ 2]: Start =  9601  End = 14600 Samples =  5000
+WordSeg[ 3]: Start = 16901  End = 20700 Samples =  3800
+WordSeg[ 4]: Start = 24101  End = 29300 Samples =  5200
+WordSeg[ 5]: Start = 31201  End = 36900 Samples =  5700
+WordSeg[ 6]: Start = 39501  End = 45200 Samples =  5700
+WordSeg[ 7]: Start = 47801  End = 52800 Samples =  5000
+WordSeg[ 8]: Start = 55801  End = 59600 Samples =  3800
+WordSeg[ 9]: Start = 62701  End = 66800 Samples =  4100
+WordSeg[10]: Start = 70201  End = 74700 Samples =  4500
+WordSeg[11]: Start = 78101  End = 80900 Samples =  2800
+Speech File: MI017.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  3201  End =  7500 Samples =  4300
+WordSeg[ 2]: Start = 10501  End = 17700 Samples =  7200
+WordSeg[ 3]: Start = 20401  End = 25800 Samples =  5400
+WordSeg[ 4]: Start = 28601  End = 33300 Samples =  4700
+WordSeg[ 5]: Start = 35701  End = 40600 Samples =  4900
+WordSeg[ 6]: Start = 42701  End = 47300 Samples =  4600
+WordSeg[ 7]: Start = 50101  End = 54700 Samples =  4600
+WordSeg[ 8]: Start = 57301  End = 61500 Samples =  4200
+Speech File: MI018.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  3001  End =  7400 Samples =  4400
+WordSeg[ 2]: Start = 10801  End = 17200 Samples =  6400
+WordSeg[ 3]: Start = 20101  End = 27300 Samples =  7200
+WordSeg[ 4]: Start = 30601  End = 34500 Samples =  3900
+WordSeg[ 5]: Start = 37701  End = 42000 Samples =  4300
+WordSeg[ 6]: Start = 42601  End = 45200 Samples =  2600
+WordSeg[ 7]: Start = 47601  End = 52100 Samples =  4500
+WordSeg[ 8]: Start = 55301  End = 58700 Samples =  3400
+Speech File: MI019.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  1401  End =  6800 Samples =  5400
+WordSeg[ 2]: Start = 10201  End = 15700 Samples =  5500
+WordSeg[ 3]: Start = 18301  End = 24900 Samples =  6600
+WordSeg[ 4]: Start = 27701  End = 32100 Samples =  4400
+Speech File: MI020.wav
+Word Segments: 10
+WordSeg[ 1]: Start =   501  End =  5700 Samples =  5200
+WordSeg[ 2]: Start =  7401  End = 12800 Samples =  5400
+WordSeg[ 3]: Start = 14801  End = 19600 Samples =  4800
+WordSeg[ 4]: Start = 22001  End = 27300 Samples =  5300
+WordSeg[ 5]: Start = 29601  End = 34600 Samples =  5000
+WordSeg[ 6]: Start = 37401  End = 42200 Samples =  4800
+WordSeg[ 7]: Start = 45101  End = 50200 Samples =  5100
+WordSeg[ 8]: Start = 52701  End = 58300 Samples =  5600
+WordSeg[ 9]: Start = 60601  End = 65100 Samples =  4500
+WordSeg[10]: Start = 67901  End = 71600 Samples =  3700
+Speech File: MI021.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2401  End =  9400 Samples =  7000
+WordSeg[ 2]: Start = 11201  End = 16600 Samples =  5400
+WordSeg[ 3]: Start = 19401  End = 24400 Samples =  5000
+WordSeg[ 4]: Start = 27001  End = 32600 Samples =  5600
+WordSeg[ 5]: Start = 35301  End = 40600 Samples =  5300
+WordSeg[ 6]: Start = 43401  End = 48000 Samples =  4600
+WordSeg[ 7]: Start = 50601  End = 52400 Samples =  1800
+WordSeg[ 8]: Start = 53001  End = 54900 Samples =  1900
+Speech File: MI022.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1401  End =  7300 Samples =  5900
+WordSeg[ 2]: Start = 10201  End = 17000 Samples =  6800
+WordSeg[ 3]: Start = 18601  End = 23600 Samples =  5000
+WordSeg[ 4]: Start = 26201  End = 32100 Samples =  5900
+WordSeg[ 5]: Start = 34201  End = 39400 Samples =  5200
+WordSeg[ 6]: Start = 41801  End = 46600 Samples =  4800
+WordSeg[ 7]: Start = 49401  End = 51400 Samples =  2000
+WordSeg[ 8]: Start = 52001  End = 54600 Samples =  2600
+WordSeg[ 9]: Start = 56601  End = 59600 Samples =  3000
+Speech File: MI023.wav
+Word Segments: 3
+WordSeg[ 1]: Start =  3101  End =  9200 Samples =  6100
+WordSeg[ 2]: Start = 11301  End = 17000 Samples =  5700
+WordSeg[ 3]: Start = 19801  End = 24600 Samples =  4800
+Speech File: MI024.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2401  End =  6400 Samples =  4000
+WordSeg[ 2]: Start =  9301  End = 15600 Samples =  6300
+WordSeg[ 3]: Start = 17201  End = 23100 Samples =  5900
+WordSeg[ 4]: Start = 26101  End = 31200 Samples =  5100
+WordSeg[ 5]: Start = 33701  End = 39400 Samples =  5700
+WordSeg[ 6]: Start = 41501  End = 45700 Samples =  4200
+WordSeg[ 7]: Start = 48101  End = 54200 Samples =  6100
+WordSeg[ 8]: Start = 56501  End = 60100 Samples =  3600
+Speech File: MI025.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  4001  End =  9600 Samples =  5600
+WordSeg[ 2]: Start = 12301  End = 16600 Samples =  4300
+WordSeg[ 3]: Start = 19601  End = 23800 Samples =  4200
+WordSeg[ 4]: Start = 26901  End = 34300 Samples =  7400
+WordSeg[ 5]: Start = 36301  End = 41400 Samples =  5100
+WordSeg[ 6]: Start = 43201  End = 45700 Samples =  2500
+WordSeg[ 7]: Start = 46301  End = 49700 Samples =  3400
+WordSeg[ 8]: Start = 51401  End = 57100 Samples =  5700
+WordSeg[ 9]: Start = 59101  End = 62000 Samples =  2900
+Speech File: MI026.wav
+Word Segments: 3
+WordSeg[ 1]: Start =  3101  End =  8100 Samples =  5000
+WordSeg[ 2]: Start = 10301  End = 15800 Samples =  5500
+WordSeg[ 3]: Start = 18201  End = 22500 Samples =  4300
+Speech File: MI027.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  3101  End =  7400 Samples =  4300
+WordSeg[ 2]: Start =  9301  End = 13700 Samples =  4400
+WordSeg[ 3]: Start = 15701  End = 22400 Samples =  6700
+WordSeg[ 4]: Start = 23901  End = 27800 Samples =  3900
+WordSeg[ 5]: Start = 30701  End = 35300 Samples =  4600
+WordSeg[ 6]: Start = 37801  End = 41000 Samples =  3200
+WordSeg[ 7]: Start = 43701  End = 47800 Samples =  4100
+WordSeg[ 8]: Start = 50501  End = 53700 Samples =  3200
+Speech File: MI028.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  1901  End =  6200 Samples =  4300
+WordSeg[ 2]: Start =  9501  End = 13800 Samples =  4300
+WordSeg[ 3]: Start = 17301  End = 21000 Samples =  3700
+WordSeg[ 4]: Start = 24701  End = 29000 Samples =  4300
+WordSeg[ 5]: Start = 32101  End = 36600 Samples =  4500
+WordSeg[ 6]: Start = 40401  End = 44200 Samples =  3800
+WordSeg[ 7]: Start = 48301  End = 52400 Samples =  4100
+WordSeg[ 8]: Start = 55701  End = 60300 Samples =  4600
+WordSeg[ 9]: Start = 63101  End = 67700 Samples =  4600
+WordSeg[10]: Start = 71001  End = 74100 Samples =  3100
+Speech File: MI029.wav
+Word Segments: 11
+WordSeg[ 1]: Start =  2701  End =  8800 Samples =  6100
+WordSeg[ 2]: Start = 10301  End = 14900 Samples =  4600
+WordSeg[ 3]: Start = 17101  End = 18900 Samples =  1800
+WordSeg[ 4]: Start = 19501  End = 22500 Samples =  3000
+WordSeg[ 5]: Start = 24501  End = 28500 Samples =  4000
+WordSeg[ 6]: Start = 31501  End = 35600 Samples =  4100
+WordSeg[ 7]: Start = 38301  End = 42900 Samples =  4600
+WordSeg[ 8]: Start = 44901  End = 49900 Samples =  5000
+WordSeg[ 9]: Start = 51501  End = 53500 Samples =  2000
+WordSeg[10]: Start = 54001  End = 57000 Samples =  3000
+WordSeg[11]: Start = 58501  End = 62900 Samples =  4400
+Speech File: MI030.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2101  End =  7000 Samples =  4900
+WordSeg[ 2]: Start =  9801  End = 14200 Samples =  4400
+WordSeg[ 3]: Start = 18501  End = 24100 Samples =  5600
+WordSeg[ 4]: Start = 27701  End = 32100 Samples =  4400
+WordSeg[ 5]: Start = 35501  End = 39700 Samples =  4200
+WordSeg[ 6]: Start = 44501  End = 48700 Samples =  4200
+WordSeg[ 7]: Start = 52001  End = 56300 Samples =  4300
+Speech File: MI031.wav
+Word Segments: 5
+WordSeg[ 1]: Start =     1  End =  4300 Samples =  4300
+WordSeg[ 2]: Start =  7701  End = 17000 Samples =  9300
+WordSeg[ 3]: Start = 19301  End = 24800 Samples =  5500
+WordSeg[ 4]: Start = 27101  End = 33700 Samples =  6600
+WordSeg[ 5]: Start = 36301  End = 41300 Samples =  5000
+Speech File: MI032.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  1801  End =  6500 Samples =  4700
+WordSeg[ 2]: Start =  8401  End = 13200 Samples =  4800
+WordSeg[ 3]: Start = 14401  End = 21000 Samples =  6600
+WordSeg[ 4]: Start = 21901  End = 28000 Samples =  6100
+WordSeg[ 5]: Start = 28901  End = 32000 Samples =  3100
+Speech File: MI033.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  3801  End =  9300 Samples =  5500
+WordSeg[ 2]: Start = 10801  End = 16000 Samples =  5200
+WordSeg[ 3]: Start = 17801  End = 22500 Samples =  4700
+WordSeg[ 4]: Start = 25201  End = 30100 Samples =  4900
+WordSeg[ 5]: Start = 32401  End = 37200 Samples =  4800
+WordSeg[ 6]: Start = 39501  End = 44300 Samples =  4800
+WordSeg[ 7]: Start = 47201  End = 51700 Samples =  4500
+WordSeg[ 8]: Start = 54201  End = 58900 Samples =  4700
+WordSeg[ 9]: Start = 61501  End = 66600 Samples =  5100
+WordSeg[10]: Start = 69401  End = 73700 Samples =  4300
+Speech File: MI034.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  2401  End =  7400 Samples =  5000
+WordSeg[ 2]: Start =  9701  End = 15300 Samples =  5600
+WordSeg[ 3]: Start = 17901  End = 19600 Samples =  1700
+WordSeg[ 4]: Start = 20101  End = 25300 Samples =  5200
+WordSeg[ 5]: Start = 27701  End = 32000 Samples =  4300
+Speech File: MI035.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2301  End =  8200 Samples =  5900
+WordSeg[ 2]: Start = 10701  End = 16800 Samples =  6100
+WordSeg[ 3]: Start = 19401  End = 25300 Samples =  5900
+WordSeg[ 4]: Start = 27201  End = 31500 Samples =  4300
+WordSeg[ 5]: Start = 34401  End = 41500 Samples =  7100
+WordSeg[ 6]: Start = 43701  End = 49000 Samples =  5300
+WordSeg[ 7]: Start = 51401  End = 55900 Samples =  4500
+WordSeg[ 8]: Start = 58301  End = 61400 Samples =  3100
+Speech File: MI036.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  3201  End =  7800 Samples =  4600
+WordSeg[ 2]: Start = 10601  End = 15600 Samples =  5000
+WordSeg[ 3]: Start = 18801  End = 23200 Samples =  4400
+WordSeg[ 4]: Start = 27401  End = 30400 Samples =  3000
+Speech File: MI037.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  1701  End =  6600 Samples =  4900
+WordSeg[ 2]: Start =  7901  End = 13500 Samples =  5600
+WordSeg[ 3]: Start = 14401  End = 19800 Samples =  5400
+WordSeg[ 4]: Start = 21101  End = 25200 Samples =  4100
+WordSeg[ 5]: Start = 26301  End = 30400 Samples =  4100
+WordSeg[ 6]: Start = 32901  End = 37600 Samples =  4700
+WordSeg[ 7]: Start = 39801  End = 44200 Samples =  4400
+Speech File: MI038.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  1801  End =  5800 Samples =  4000
+WordSeg[ 2]: Start =  8101  End = 12500 Samples =  4400
+WordSeg[ 3]: Start = 14701  End = 18900 Samples =  4200
+WordSeg[ 4]: Start = 20601  End = 23900 Samples =  3300
+WordSeg[ 5]: Start = 25601  End = 31200 Samples =  5600
+WordSeg[ 6]: Start = 32101  End = 35800 Samples =  3700
+Speech File: MI039.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2601  End =  7500 Samples =  4900
+WordSeg[ 2]: Start =  8901  End = 12700 Samples =  3800
+WordSeg[ 3]: Start = 15601  End = 17900 Samples =  2300
+WordSeg[ 4]: Start = 18801  End = 21300 Samples =  2500
+WordSeg[ 5]: Start = 23301  End = 29400 Samples =  6100
+WordSeg[ 6]: Start = 31401  End = 36400 Samples =  5000
+WordSeg[ 7]: Start = 38201  End = 42400 Samples =  4200
+WordSeg[ 8]: Start = 44101  End = 47000 Samples =  2900
+Speech File: MI040.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1801  End =  6200 Samples =  4400
+WordSeg[ 2]: Start =  8301  End = 14400 Samples =  6100
+WordSeg[ 3]: Start = 15801  End = 20600 Samples =  4800
+WordSeg[ 4]: Start = 21601  End = 23600 Samples =  2000
+WordSeg[ 5]: Start = 24301  End = 26700 Samples =  2400
+WordSeg[ 6]: Start = 27701  End = 33000 Samples =  5300
+WordSeg[ 7]: Start = 34701  End = 39000 Samples =  4300
+WordSeg[ 8]: Start = 40601  End = 44900 Samples =  4300
+WordSeg[ 9]: Start = 47001  End = 50900 Samples =  3900
+Speech File: MI041.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  2301  End =  7500 Samples =  5200
+WordSeg[ 2]: Start =  9901  End = 15800 Samples =  5900
+WordSeg[ 3]: Start = 17501  End = 21000 Samples =  3500
+WordSeg[ 4]: Start = 24001  End = 27000 Samples =  3000
+WordSeg[ 5]: Start = 30201  End = 34700 Samples =  4500
+WordSeg[ 6]: Start = 37601  End = 41200 Samples =  3600
+Speech File: MI042.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  1901  End =  7300 Samples =  5400
+WordSeg[ 2]: Start =  9701  End = 14200 Samples =  4500
+WordSeg[ 3]: Start = 16201  End = 21300 Samples =  5100
+WordSeg[ 4]: Start = 23801  End = 29200 Samples =  5400
+WordSeg[ 5]: Start = 30901  End = 36000 Samples =  5100
+Speech File: MI043.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  3601  End =  8200 Samples =  4600
+WordSeg[ 2]: Start = 11801  End = 17200 Samples =  5400
+WordSeg[ 3]: Start = 19301  End = 24300 Samples =  5000
+WordSeg[ 4]: Start = 26801  End = 30200 Samples =  3400
+Speech File: MI044.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2501  End =  7900 Samples =  5400
+WordSeg[ 2]: Start = 10501  End = 13500 Samples =  3000
+WordSeg[ 3]: Start = 14601  End = 17300 Samples =  2700
+WordSeg[ 4]: Start = 20101  End = 24900 Samples =  4800
+WordSeg[ 5]: Start = 28001  End = 34700 Samples =  6700
+WordSeg[ 6]: Start = 37001  End = 41800 Samples =  4800
+WordSeg[ 7]: Start = 44201  End = 49900 Samples =  5700
+WordSeg[ 8]: Start = 52301  End = 55200 Samples =  2900
+Speech File: MI045.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  2301  End =  6900 Samples =  4600
+WordSeg[ 2]: Start =  9501  End = 15600 Samples =  6100
+WordSeg[ 3]: Start = 17801  End = 24700 Samples =  6900
+WordSeg[ 4]: Start = 27501  End = 33500 Samples =  6000
+WordSeg[ 5]: Start = 36201  End = 40900 Samples =  4700
+Speech File: MI046.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  1601  End =  7000 Samples =  5400
+WordSeg[ 2]: Start =  8301  End = 13500 Samples =  5200
+WordSeg[ 3]: Start = 15101  End = 20300 Samples =  5200
+WordSeg[ 4]: Start = 21801  End = 28300 Samples =  6500
+WordSeg[ 5]: Start = 29301  End = 31500 Samples =  2200
+WordSeg[ 6]: Start = 32001  End = 36500 Samples =  4500
+WordSeg[ 7]: Start = 37501  End = 41100 Samples =  3600
+Speech File: MI047.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  1701  End =  7000 Samples =  5300
+WordSeg[ 2]: Start =  9401  End = 11500 Samples =  2100
+WordSeg[ 3]: Start = 12001  End = 14600 Samples =  2600
+WordSeg[ 4]: Start = 16401  End = 21600 Samples =  5200
+WordSeg[ 5]: Start = 24501  End = 28700 Samples =  4200
+Speech File: MI048.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  2701  End =  7700 Samples =  5000
+WordSeg[ 2]: Start =  9901  End = 13300 Samples =  3400
+WordSeg[ 3]: Start = 16101  End = 20500 Samples =  4400
+WordSeg[ 4]: Start = 22801  End = 24900 Samples =  2100
+WordSeg[ 5]: Start = 25401  End = 27900 Samples =  2500
+WordSeg[ 6]: Start = 29801  End = 32600 Samples =  2800
+Speech File: MI049.wav
+Word Segments: 11
+WordSeg[ 1]: Start =  5501  End = 11500 Samples =  6000
+WordSeg[ 2]: Start = 14101  End = 20500 Samples =  6400
+WordSeg[ 3]: Start = 21601  End = 28700 Samples =  7100
+WordSeg[ 4]: Start = 30201  End = 35300 Samples =  5100
+WordSeg[ 5]: Start = 38101  End = 43600 Samples =  5500
+WordSeg[ 6]: Start = 44101  End = 45400 Samples =  1300
+WordSeg[ 7]: Start = 46301  End = 52300 Samples =  6000
+WordSeg[ 8]: Start = 55101  End = 60800 Samples =  5700
+WordSeg[ 9]: Start = 63801  End = 70700 Samples =  6900
+WordSeg[10]: Start = 71801  End = 78000 Samples =  6200
+WordSeg[11]: Start = 80501  End = 85300 Samples =  4800
+Speech File: MI049.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  7401  End = 11500 Samples =  4100
+WordSeg[ 2]: Start = 14101  End = 20500 Samples =  6400
+WordSeg[ 3]: Start = 21601  End = 27000 Samples =  5400
+WordSeg[ 4]: Start = 30201  End = 35300 Samples =  5100
+WordSeg[ 5]: Start = 38101  End = 43600 Samples =  5500
+WordSeg[ 6]: Start = 46301  End = 52300 Samples =  6000
+WordSeg[ 7]: Start = 57101  End = 60800 Samples =  3700
+WordSeg[ 8]: Start = 65601  End = 69300 Samples =  3700
+WordSeg[ 9]: Start = 71801  End = 78000 Samples =  6200
+WordSeg[10]: Start = 80501  End = 85300 Samples =  4800
+Speech File: MI049.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  5501  End = 11500 Samples =  6000
+WordSeg[ 2]: Start = 14101  End = 20500 Samples =  6400
+WordSeg[ 3]: Start = 21601  End = 27000 Samples =  5400
+WordSeg[ 4]: Start = 30201  End = 35300 Samples =  5100
+WordSeg[ 5]: Start = 38101  End = 43600 Samples =  5500
+WordSeg[ 6]: Start = 46301  End = 52300 Samples =  6000
+WordSeg[ 7]: Start = 55101  End = 60800 Samples =  5700
+WordSeg[ 8]: Start = 63801  End = 69300 Samples =  5500
+WordSeg[ 9]: Start = 71801  End = 78000 Samples =  6200
+WordSeg[10]: Start = 80501  End = 85300 Samples =  4800
+Speech File: MI049.wav
+Word Segments: 10
+WordSeg[ 1]: Start =  5501  End = 11500 Samples =  6000
+WordSeg[ 2]: Start = 14101  End = 20500 Samples =  6400
+WordSeg[ 3]: Start = 21601  End = 27000 Samples =  5400
+WordSeg[ 4]: Start = 30201  End = 35300 Samples =  5100
+WordSeg[ 5]: Start = 38101  End = 43600 Samples =  5500
+WordSeg[ 6]: Start = 46301  End = 52300 Samples =  6000
+WordSeg[ 7]: Start = 55101  End = 60800 Samples =  5700
+WordSeg[ 8]: Start = 63801  End = 69300 Samples =  5500
+WordSeg[ 9]: Start = 71801  End = 78000 Samples =  6200
+WordSeg[10]: Start = 80501  End = 85300 Samples =  4800
+Speech File: MI050.wav
+Word Segments: 6
+WordSeg[ 1]: Start =     1  End =  5900 Samples =  5900
+WordSeg[ 2]: Start =  7001  End = 15000 Samples =  8000
+WordSeg[ 3]: Start = 16301  End = 21600 Samples =  5300
+WordSeg[ 4]: Start = 23601  End = 29400 Samples =  5800
+WordSeg[ 5]: Start = 29901  End = 36200 Samples =  6300
+WordSeg[ 6]: Start = 36701  End = 41554 Samples =  4854
+Speech File: MI050.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   301  End =  6300 Samples =  6000
+WordSeg[ 2]: Start =  7201  End = 14700 Samples =  7500
+WordSeg[ 3]: Start = 15701  End = 21300 Samples =  5600
+WordSeg[ 4]: Start = 22801  End = 28200 Samples =  5400
+WordSeg[ 5]: Start = 29201  End = 35800 Samples =  6600
+WordSeg[ 6]: Start = 36301  End = 41600 Samples =  5300
+Speech File: MI051.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  3101  End =  7800 Samples =  4700
+WordSeg[ 2]: Start =  9401  End = 15300 Samples =  5900
+WordSeg[ 3]: Start = 18201  End = 22000 Samples =  3800
+WordSeg[ 4]: Start = 25001  End = 29600 Samples =  4600
+WordSeg[ 5]: Start = 31301  End = 33100 Samples =  1800
+WordSeg[ 6]: Start = 33901  End = 36500 Samples =  2600
+WordSeg[ 7]: Start = 38901  End = 43000 Samples =  4100
+WordSeg[ 8]: Start = 46001  End = 49600 Samples =  3600
+Speech File: MI052.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  3201  End =  7800 Samples =  4600
+WordSeg[ 2]: Start =  9501  End = 13200 Samples =  3700
+WordSeg[ 3]: Start = 16401  End = 21000 Samples =  4600
+WordSeg[ 4]: Start = 23301  End = 28200 Samples =  4900
+WordSeg[ 5]: Start = 29901  End = 31900 Samples =  2000
+WordSeg[ 6]: Start = 32801  End = 35100 Samples =  2300
+WordSeg[ 7]: Start = 37301  End = 41100 Samples =  3800
+Speech File: MI050.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   301  End =  6300 Samples =  6000
+WordSeg[ 2]: Start =  7201  End = 14700 Samples =  7500
+WordSeg[ 3]: Start = 15701  End = 21300 Samples =  5600
+WordSeg[ 4]: Start = 22801  End = 28200 Samples =  5400
+WordSeg[ 5]: Start = 29201  End = 35800 Samples =  6600
+WordSeg[ 6]: Start = 36301  End = 41600 Samples =  5300
+Speech File: MI051.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  3101  End =  7800 Samples =  4700
+WordSeg[ 2]: Start =  9401  End = 15300 Samples =  5900
+WordSeg[ 3]: Start = 18201  End = 22000 Samples =  3800
+WordSeg[ 4]: Start = 25001  End = 29600 Samples =  4600
+WordSeg[ 5]: Start = 31301  End = 33100 Samples =  1800
+WordSeg[ 6]: Start = 33901  End = 36500 Samples =  2600
+WordSeg[ 7]: Start = 38901  End = 43000 Samples =  4100
+WordSeg[ 8]: Start = 46001  End = 49600 Samples =  3600
+Speech File: MI052.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  3201  End =  7800 Samples =  4600
+WordSeg[ 2]: Start =  9501  End = 13200 Samples =  3700
+WordSeg[ 3]: Start = 16401  End = 21000 Samples =  4600
+WordSeg[ 4]: Start = 23301  End = 28200 Samples =  4900
+WordSeg[ 5]: Start = 29901  End = 31900 Samples =  2000
+WordSeg[ 6]: Start = 32801  End = 35100 Samples =  2300
+WordSeg[ 7]: Start = 37301  End = 41100 Samples =  3800
+Speech File: MI053.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   901  End =  6200 Samples =  5300
+WordSeg[ 2]: Start =  6701  End = 13500 Samples =  6800
+WordSeg[ 3]: Start = 14201  End = 19300 Samples =  5100
+WordSeg[ 4]: Start = 20901  End = 26400 Samples =  5500
+WordSeg[ 5]: Start = 27601  End = 32800 Samples =  5200
+WordSeg[ 6]: Start = 33601  End = 40300 Samples =  6700
+Speech File: MI054.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2901  End =  6600 Samples =  3700
+WordSeg[ 2]: Start =  8901  End = 12600 Samples =  3700
+WordSeg[ 3]: Start = 14301  End = 20000 Samples =  5700
+WordSeg[ 4]: Start = 22101  End = 25700 Samples =  3600
+WordSeg[ 5]: Start = 27301  End = 30600 Samples =  3300
+WordSeg[ 6]: Start = 34801  End = 39300 Samples =  4500
+WordSeg[ 7]: Start = 40401  End = 46600 Samples =  6200
+WordSeg[ 8]: Start = 49201  End = 52800 Samples =  3600
+Speech File: MI055.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  3301  End = 12100 Samples =  8800
+WordSeg[ 2]: Start = 14501  End = 21300 Samples =  6800
+WordSeg[ 3]: Start = 23301  End = 28500 Samples =  5200
+WordSeg[ 4]: Start = 31701  End = 36500 Samples =  4800
+WordSeg[ 5]: Start = 39501  End = 46500 Samples =  7000
+WordSeg[ 6]: Start = 49401  End = 53000 Samples =  3600
+Speech File: MI056.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  2401  End =  7100 Samples =  4700
+WordSeg[ 2]: Start = 10501  End = 15200 Samples =  4700
+WordSeg[ 3]: Start = 18801  End = 24500 Samples =  5700
+WordSeg[ 4]: Start = 27901  End = 33800 Samples =  5900
+WordSeg[ 5]: Start = 36201  End = 42900 Samples =  6700
+Speech File: MI057.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  2501  End =  7700 Samples =  5200
+WordSeg[ 2]: Start = 10501  End = 14300 Samples =  3800
+WordSeg[ 3]: Start = 17801  End = 22400 Samples =  4600
+WordSeg[ 4]: Start = 25301  End = 28200 Samples =  2900
+Speech File: MI058.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  3401  End =  8000 Samples =  4600
+WordSeg[ 2]: Start = 12501  End = 16800 Samples =  4300
+WordSeg[ 3]: Start = 20101  End = 26300 Samples =  6200
+WordSeg[ 4]: Start = 28901  End = 35000 Samples =  6100
+WordSeg[ 5]: Start = 37201  End = 41700 Samples =  4500
+Speech File: MI059.wav
+Word Segments: 6
+WordSeg[ 1]: Start =     1  End =  7900 Samples =  7900
+WordSeg[ 2]: Start = 10701  End = 15400 Samples =  4700
+WordSeg[ 3]: Start = 18601  End = 25900 Samples =  7300
+WordSeg[ 4]: Start = 28101  End = 30400 Samples =  2300
+WordSeg[ 5]: Start = 31001  End = 34200 Samples =  3200
+WordSeg[ 6]: Start = 36601  End = 41900 Samples =  5300
+Speech File: MI060.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  3901  End = 10400 Samples =  6500
+WordSeg[ 2]: Start = 11901  End = 18100 Samples =  6200
+WordSeg[ 3]: Start = 19201  End = 25000 Samples =  5800
+WordSeg[ 4]: Start = 27801  End = 32300 Samples =  4500
+WordSeg[ 5]: Start = 33401  End = 37900 Samples =  4500
+WordSeg[ 6]: Start = 39901  End = 43500 Samples =  3600
+WordSeg[ 7]: Start = 46201  End = 51100 Samples =  4900
+Speech File: MI061.wav
+Word Segments: 7
+WordSeg[ 1]: Start =   201  End =  3900 Samples =  3700
+WordSeg[ 2]: Start =  6901  End = 10200 Samples =  3300
+WordSeg[ 3]: Start = 12901  End = 17300 Samples =  4400
+WordSeg[ 4]: Start = 20601  End = 24700 Samples =  4100
+WordSeg[ 5]: Start = 27601  End = 32500 Samples =  4900
+WordSeg[ 6]: Start = 35401  End = 39900 Samples =  4500
+WordSeg[ 7]: Start = 42401  End = 45900 Samples =  3500
+Speech File: MI062.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  2001  End =  6600 Samples =  4600
+WordSeg[ 2]: Start =  9501  End = 14500 Samples =  5000
+WordSeg[ 3]: Start = 18201  End = 21600 Samples =  3400
+WordSeg[ 4]: Start = 25401  End = 30000 Samples =  4600
+WordSeg[ 5]: Start = 33401  End = 37700 Samples =  4300
+Speech File: MI063.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  1201  End =  5000 Samples =  3800
+WordSeg[ 2]: Start =  7501  End = 15600 Samples =  8100
+WordSeg[ 3]: Start = 17801  End = 23800 Samples =  6000
+WordSeg[ 4]: Start = 25401  End = 29700 Samples =  4300
+WordSeg[ 5]: Start = 31501  End = 34500 Samples =  3000
+Speech File: MI064.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  4001  End =  8000 Samples =  4000
+WordSeg[ 2]: Start = 10501  End = 15000 Samples =  4500
+WordSeg[ 3]: Start = 16101  End = 23000 Samples =  6900
+WordSeg[ 4]: Start = 25801  End = 30900 Samples =  5100
+WordSeg[ 5]: Start = 33301  End = 37900 Samples =  4600
+WordSeg[ 6]: Start = 39701  End = 43900 Samples =  4200
+WordSeg[ 7]: Start = 45701  End = 49000 Samples =  3300
+Speech File: MI065.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  4301  End =  9900 Samples =  5600
+WordSeg[ 2]: Start = 12601  End = 16700 Samples =  4100
+WordSeg[ 3]: Start = 19801  End = 26500 Samples =  6700
+WordSeg[ 4]: Start = 28901  End = 35400 Samples =  6500
+WordSeg[ 5]: Start = 37601  End = 43000 Samples =  5400
+WordSeg[ 6]: Start = 46201  End = 50700 Samples =  4500
+Speech File: MI066.wav
+Word Segments: 8
+WordSeg[ 1]: Start =     1  End =  3900 Samples =  3900
+WordSeg[ 2]: Start =  7201  End = 13900 Samples =  6700
+WordSeg[ 3]: Start = 15801  End = 22300 Samples =  6500
+WordSeg[ 4]: Start = 24801  End = 29900 Samples =  5100
+WordSeg[ 5]: Start = 32901  End = 38000 Samples =  5100
+WordSeg[ 6]: Start = 40901  End = 46700 Samples =  5800
+WordSeg[ 7]: Start = 49201  End = 54400 Samples =  5200
+WordSeg[ 8]: Start = 57401  End = 62200 Samples =  4800
+Speech File: MI067.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  1601  End =  5400 Samples =  3800
+WordSeg[ 2]: Start =  8201  End = 13000 Samples =  4800
+WordSeg[ 3]: Start = 15401  End = 21000 Samples =  5600
+WordSeg[ 4]: Start = 23201  End = 28200 Samples =  5000
+WordSeg[ 5]: Start = 31101  End = 35800 Samples =  4700
+WordSeg[ 6]: Start = 36401  End = 40000 Samples =  3600
+Speech File: MI068.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  2701  End =  6800 Samples =  4100
+WordSeg[ 2]: Start =  9801  End = 14800 Samples =  5000
+WordSeg[ 3]: Start = 17501  End = 23100 Samples =  5600
+WordSeg[ 4]: Start = 27001  End = 30800 Samples =  3800
+Speech File: MI069.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2501  End =  6800 Samples =  4300
+WordSeg[ 2]: Start =  9201  End = 13600 Samples =  4400
+WordSeg[ 3]: Start = 17301  End = 22200 Samples =  4900
+WordSeg[ 4]: Start = 24901  End = 28800 Samples =  3900
+WordSeg[ 5]: Start = 32001  End = 36300 Samples =  4300
+WordSeg[ 6]: Start = 38301  End = 43800 Samples =  5500
+WordSeg[ 7]: Start = 45701  End = 49800 Samples =  4100
+Speech File: MI070.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2801  End =  7200 Samples =  4400
+WordSeg[ 2]: Start = 10201  End = 16300 Samples =  6100
+WordSeg[ 3]: Start = 19101  End = 23400 Samples =  4300
+WordSeg[ 4]: Start = 26101  End = 31100 Samples =  5000
+WordSeg[ 5]: Start = 33901  End = 40200 Samples =  6300
+WordSeg[ 6]: Start = 42701  End = 47600 Samples =  4900
+WordSeg[ 7]: Start = 50801  End = 55300 Samples =  4500
+Speech File: MI071.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2101  End =  7800 Samples =  5700
+WordSeg[ 2]: Start = 10001  End = 15400 Samples =  5400
+WordSeg[ 3]: Start = 18601  End = 24400 Samples =  5800
+WordSeg[ 4]: Start = 27001  End = 32200 Samples =  5200
+WordSeg[ 5]: Start = 34401  End = 41400 Samples =  7000
+WordSeg[ 6]: Start = 43001  End = 46900 Samples =  3900
+WordSeg[ 7]: Start = 50001  End = 53500 Samples =  3500
+Speech File: MI072.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  3001  End =  7400 Samples =  4400
+WordSeg[ 2]: Start =  9901  End = 14400 Samples =  4500
+WordSeg[ 3]: Start = 17201  End = 21100 Samples =  3900
+WordSeg[ 4]: Start = 23701  End = 29800 Samples =  6100
+WordSeg[ 5]: Start = 33501  End = 37200 Samples =  3700
+WordSeg[ 6]: Start = 38401  End = 43700 Samples =  5300
+WordSeg[ 7]: Start = 46801  End = 53100 Samples =  6300
+WordSeg[ 8]: Start = 54901  End = 58600 Samples =  3700
+Speech File: MI073.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1801  End =  5500 Samples =  3700
+WordSeg[ 2]: Start =  7101  End = 12200 Samples =  5100
+WordSeg[ 3]: Start = 13401  End = 17800 Samples =  4400
+WordSeg[ 4]: Start = 20301  End = 24500 Samples =  4200
+WordSeg[ 5]: Start = 27001  End = 31800 Samples =  4800
+WordSeg[ 6]: Start = 34601  End = 39000 Samples =  4400
+WordSeg[ 7]: Start = 41501  End = 46500 Samples =  5000
+WordSeg[ 8]: Start = 49001  End = 53000 Samples =  4000
+WordSeg[ 9]: Start = 55201  End = 58100 Samples =  2900
+Speech File: MI074.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  2801  End =  7900 Samples =  5100
+WordSeg[ 2]: Start = 10601  End = 15500 Samples =  4900
+WordSeg[ 3]: Start = 19501  End = 25000 Samples =  5500
+WordSeg[ 4]: Start = 28601  End = 32700 Samples =  4100
+Speech File: MI075.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  2301  End =  6400 Samples =  4100
+WordSeg[ 2]: Start =  9101  End = 14500 Samples =  5400
+WordSeg[ 3]: Start = 17101  End = 19200 Samples =  2100
+WordSeg[ 4]: Start = 20101  End = 23100 Samples =  3000
+WordSeg[ 5]: Start = 26101  End = 29300 Samples =  3200
+Speech File: MI076.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  1801  End =  5800 Samples =  4000
+WordSeg[ 2]: Start =  7901  End = 13500 Samples =  5600
+WordSeg[ 3]: Start = 16201  End = 22200 Samples =  6000
+WordSeg[ 4]: Start = 24401  End = 29300 Samples =  4900
+WordSeg[ 5]: Start = 32401  End = 35900 Samples =  3500
+WordSeg[ 6]: Start = 38001  End = 42400 Samples =  4400
+WordSeg[ 7]: Start = 44101  End = 48800 Samples =  4700
+WordSeg[ 8]: Start = 51501  End = 54600 Samples =  3100
+Speech File: MI077.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  3001  End =  9800 Samples =  6800
+WordSeg[ 2]: Start = 12201  End = 18000 Samples =  5800
+WordSeg[ 3]: Start = 20701  End = 26400 Samples =  5700
+WordSeg[ 4]: Start = 28801  End = 34500 Samples =  5700
+WordSeg[ 5]: Start = 37601  End = 43000 Samples =  5400
+WordSeg[ 6]: Start = 45701  End = 51100 Samples =  5400
+WordSeg[ 7]: Start = 53601  End = 60400 Samples =  6800
+WordSeg[ 8]: Start = 62301  End = 64400 Samples =  2100
+WordSeg[ 9]: Start = 65001  End = 67000 Samples =  2000
+Speech File: MI078.wav
+Word Segments: 8
+WordSeg[ 1]: Start =  2201  End =  7400 Samples =  5200
+WordSeg[ 2]: Start =  8301  End = 13600 Samples =  5300
+WordSeg[ 3]: Start = 15001  End = 20300 Samples =  5300
+WordSeg[ 4]: Start = 22201  End = 26500 Samples =  4300
+WordSeg[ 5]: Start = 28301  End = 33700 Samples =  5400
+WordSeg[ 6]: Start = 35901  End = 40000 Samples =  4100
+WordSeg[ 7]: Start = 42401  End = 45900 Samples =  3500
+WordSeg[ 8]: Start = 48401  End = 52700 Samples =  4300
+Speech File: MI079.wav
+Word Segments: 8
+WordSeg[ 1]: Start =   901  End =  6600 Samples =  5700
+WordSeg[ 2]: Start = 10301  End = 15500 Samples =  5200
+WordSeg[ 3]: Start = 17701  End = 26000 Samples =  8300
+WordSeg[ 4]: Start = 28701  End = 34500 Samples =  5800
+WordSeg[ 5]: Start = 38501  End = 45000 Samples =  6500
+WordSeg[ 6]: Start = 47701  End = 51700 Samples =  4000
+WordSeg[ 7]: Start = 53701  End = 60500 Samples =  6800
+WordSeg[ 8]: Start = 63201  End = 67400 Samples =  4200
+Speech File: MI080.wav
+Word Segments: 4
+WordSeg[ 1]: Start =   701  End =  6000 Samples =  5300
+WordSeg[ 2]: Start =  9101  End = 14900 Samples =  5800
+WordSeg[ 3]: Start = 17201  End = 19200 Samples =  2000
+WordSeg[ 4]: Start = 19701  End = 21300 Samples =  1600
+Speech File: MI081.wav
+Word Segments: 6
+WordSeg[ 1]: Start =  2501  End =  6900 Samples =  4400
+WordSeg[ 2]: Start = 10101  End = 14000 Samples =  3900
+WordSeg[ 3]: Start = 17401  End = 23800 Samples =  6400
+WordSeg[ 4]: Start = 26201  End = 31500 Samples =  5300
+WordSeg[ 5]: Start = 34901  End = 39500 Samples =  4600
+WordSeg[ 6]: Start = 42801  End = 46100 Samples =  3300
+Speech File: MI082.wav
+Word Segments: 5
+WordSeg[ 1]: Start =   601  End =  6200 Samples =  5600
+WordSeg[ 2]: Start =  8201  End = 13400 Samples =  5200
+WordSeg[ 3]: Start = 14801  End = 20700 Samples =  5900
+WordSeg[ 4]: Start = 22201  End = 26200 Samples =  4000
+WordSeg[ 5]: Start = 29101  End = 32100 Samples =  3000
+Speech File: MI083.wav
+Word Segments: 4
+WordSeg[ 1]: Start =  2001  End =  7900 Samples =  5900
+WordSeg[ 2]: Start = 10101  End = 14500 Samples =  4400
+WordSeg[ 3]: Start = 15701  End = 19500 Samples =  3800
+WordSeg[ 4]: Start = 22201  End = 25200 Samples =  3000
+Speech File: MI084.wav
+Word Segments: 5
+WordSeg[ 1]: Start =     1  End =  7000 Samples =  7000
+WordSeg[ 2]: Start =  8201  End = 14800 Samples =  6600
+WordSeg[ 3]: Start = 16601  End = 23700 Samples =  7100
+WordSeg[ 4]: Start = 26201  End = 31900 Samples =  5700
+WordSeg[ 5]: Start = 33801  End = 38300 Samples =  4500
+Speech File: MI085.wav
+Word Segments: 9
+WordSeg[ 1]: Start =   401  End =  2900 Samples =  2500
+WordSeg[ 2]: Start =  3401  End =  6100 Samples =  2700
+WordSeg[ 3]: Start =  8601  End = 13200 Samples =  4600
+WordSeg[ 4]: Start = 15601  End = 20000 Samples =  4400
+WordSeg[ 5]: Start = 22001  End = 25800 Samples =  3800
+WordSeg[ 6]: Start = 28101  End = 31900 Samples =  3800
+WordSeg[ 7]: Start = 35501  End = 39100 Samples =  3600
+WordSeg[ 8]: Start = 42201  End = 46700 Samples =  4500
+WordSeg[ 9]: Start = 49401  End = 53400 Samples =  4000
+Speech File: MI086.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  3301  End =  7800 Samples =  4500
+WordSeg[ 2]: Start = 10201  End = 15100 Samples =  4900
+WordSeg[ 3]: Start = 16101  End = 21500 Samples =  5400
+WordSeg[ 4]: Start = 22801  End = 28400 Samples =  5600
+WordSeg[ 5]: Start = 30001  End = 34900 Samples =  4900
+WordSeg[ 6]: Start = 37701  End = 43500 Samples =  5800
+WordSeg[ 7]: Start = 45201  End = 49000 Samples =  3800
+Speech File: MI086.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  3301  End =  7800 Samples =  4500
+WordSeg[ 2]: Start = 10201  End = 15100 Samples =  4900
+WordSeg[ 3]: Start = 16101  End = 21500 Samples =  5400
+WordSeg[ 4]: Start = 22801  End = 28400 Samples =  5600
+WordSeg[ 5]: Start = 30001  End = 34900 Samples =  4900
+WordSeg[ 6]: Start = 37701  End = 43500 Samples =  5800
+WordSeg[ 7]: Start = 45201  End = 49000 Samples =  3800
+Speech File: MI087.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   501  End =  7200 Samples =  6700
+WordSeg[ 2]: Start =  8501  End = 13800 Samples =  5300
+WordSeg[ 3]: Start = 15501  End = 19100 Samples =  3600
+WordSeg[ 4]: Start = 21301  End = 23200 Samples =  1900
+WordSeg[ 5]: Start = 23801  End = 26400 Samples =  2600
+WordSeg[ 6]: Start = 27501  End = 30454 Samples =  2954
+Speech File: MI087.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   501  End =  7200 Samples =  6700
+WordSeg[ 2]: Start =  8501  End = 13800 Samples =  5300
+WordSeg[ 3]: Start = 15501  End = 19100 Samples =  3600
+WordSeg[ 4]: Start = 21301  End = 23200 Samples =  1900
+WordSeg[ 5]: Start = 23801  End = 26400 Samples =  2600
+WordSeg[ 6]: Start = 27501  End = 30454 Samples =  2954
+Speech File: MI088.wav
+Word Segments: 9
+WordSeg[ 1]: Start =  1301  End =  4500 Samples =  3200
+WordSeg[ 2]: Start =  6001  End = 11200 Samples =  5200
+WordSeg[ 3]: Start = 12601  End = 16400 Samples =  3800
+WordSeg[ 4]: Start = 18101  End = 23500 Samples =  5400
+WordSeg[ 5]: Start = 25301  End = 29500 Samples =  4200
+WordSeg[ 6]: Start = 31001  End = 35100 Samples =  4100
+WordSeg[ 7]: Start = 37601  End = 40700 Samples =  3100
+WordSeg[ 8]: Start = 43501  End = 48100 Samples =  4600
+WordSeg[ 9]: Start = 49701  End = 53600 Samples =  3900
+Speech File: MI089.wav
+Word Segments: 6
+WordSeg[ 1]: Start =     1  End =  2100 Samples =  2100
+WordSeg[ 2]: Start =  2901  End =  6000 Samples =  3100
+WordSeg[ 3]: Start =  8401  End = 14700 Samples =  6300
+WordSeg[ 4]: Start = 16901  End = 21900 Samples =  5000
+WordSeg[ 5]: Start = 24601  End = 29800 Samples =  5200
+WordSeg[ 6]: Start = 32701  End = 36300 Samples =  3600
+Speech File: MI090.wav
+Word Segments: 8
+WordSeg[ 1]: Start =   401  End =  4600 Samples =  4200
+WordSeg[ 2]: Start =  7001  End = 14500 Samples =  7500
+WordSeg[ 3]: Start = 16201  End = 20800 Samples =  4600
+WordSeg[ 4]: Start = 22501  End = 27700 Samples =  5200
+WordSeg[ 5]: Start = 29801  End = 35500 Samples =  5700
+WordSeg[ 6]: Start = 37501  End = 41400 Samples =  3900
+WordSeg[ 7]: Start = 45101  End = 48900 Samples =  3800
+WordSeg[ 8]: Start = 51201  End = 54400 Samples =  3200
+Speech File: MI091.wav
+Word Segments: 9
+WordSeg[ 1]: Start =   301  End =  6100 Samples =  5800
+WordSeg[ 2]: Start =  7001  End = 12100 Samples =  5100
+WordSeg[ 3]: Start = 13901  End = 18000 Samples =  4100
+WordSeg[ 4]: Start = 19401  End = 23000 Samples =  3600
+WordSeg[ 5]: Start = 25101  End = 29600 Samples =  4500
+WordSeg[ 6]: Start = 31201  End = 36100 Samples =  4900
+WordSeg[ 7]: Start = 38901  End = 42300 Samples =  3400
+WordSeg[ 8]: Start = 44801  End = 49000 Samples =  4200
+WordSeg[ 9]: Start = 50701  End = 54800 Samples =  4100
+Speech File: MI092.wav
+Word Segments: 10
+WordSeg[ 1]: Start =     1  End =  5500 Samples =  5500
+WordSeg[ 2]: Start =  7301  End = 12300 Samples =  5000
+WordSeg[ 3]: Start = 14201  End = 20600 Samples =  6400
+WordSeg[ 4]: Start = 21901  End = 26400 Samples =  4500
+WordSeg[ 5]: Start = 28901  End = 33300 Samples =  4400
+WordSeg[ 6]: Start = 34001  End = 41600 Samples =  7600
+WordSeg[ 7]: Start = 43201  End = 47700 Samples =  4500
+WordSeg[ 8]: Start = 50001  End = 55000 Samples =  5000
+WordSeg[ 9]: Start = 57201  End = 62900 Samples =  5700
+WordSeg[10]: Start = 65401  End = 70300 Samples =  4900
+Speech File: MI093.wav
+Word Segments: 5
+WordSeg[ 1]: Start =  3901  End =  8000 Samples =  4100
+WordSeg[ 2]: Start = 10401  End = 14400 Samples =  4000
+WordSeg[ 3]: Start = 16501  End = 21700 Samples =  5200
+WordSeg[ 4]: Start = 23701  End = 29300 Samples =  5600
+WordSeg[ 5]: Start = 29901  End = 33300 Samples =  3400
+Speech File: MI094.wav
+Word Segments: 5
+WordSeg[ 1]: Start =   101  End =  6000 Samples =  5900
+WordSeg[ 2]: Start =  7701  End = 12100 Samples =  4400
+WordSeg[ 3]: Start = 13701  End = 18400 Samples =  4700
+WordSeg[ 4]: Start = 19401  End = 24300 Samples =  4900
+WordSeg[ 5]: Start = 26001  End = 28300 Samples =  2300
+Speech File: MI095.wav
+Word Segments: 4
+WordSeg[ 1]: Start =     1  End =  3800 Samples =  3800
+WordSeg[ 2]: Start =  7501  End = 12800 Samples =  5300
+WordSeg[ 3]: Start = 14701  End = 19600 Samples =  4900
+WordSeg[ 4]: Start = 21301  End = 23900 Samples =  2600
+Speech File: MI096.wav
+Word Segments: 4
+WordSeg[ 1]: Start =     1  End =  4900 Samples =  4900
+WordSeg[ 2]: Start =  7001  End = 10800 Samples =  3800
+WordSeg[ 3]: Start = 13001  End = 17700 Samples =  4700
+WordSeg[ 4]: Start = 19501  End = 22700 Samples =  3200
+Speech File: MI097.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   101  End =  5600 Samples =  5500
+WordSeg[ 2]: Start =  7401  End = 12300 Samples =  4900
+WordSeg[ 3]: Start = 13101  End = 20100 Samples =  7000
+WordSeg[ 4]: Start = 21401  End = 27200 Samples =  5800
+WordSeg[ 5]: Start = 29001  End = 33100 Samples =  4100
+WordSeg[ 6]: Start = 35501  End = 39500 Samples =  4000
+Speech File: MI098.wav
+Word Segments: 6
+WordSeg[ 1]: Start =   401  End =  5000 Samples =  4600
+WordSeg[ 2]: Start =  6101  End = 11500 Samples =  5400
+WordSeg[ 3]: Start = 13101  End = 18200 Samples =  5100
+WordSeg[ 4]: Start = 20601  End = 22400 Samples =  1800
+WordSeg[ 5]: Start = 22901  End = 25500 Samples =  2600
+WordSeg[ 6]: Start = 27601  End = 30314 Samples =  2714
+Speech File: MI099.wav
+Word Segments: 7
+WordSeg[ 1]: Start =  2701  End =  8400 Samples =  5700
+WordSeg[ 2]: Start = 10801  End = 17000 Samples =  6200
+WordSeg[ 3]: Start = 18901  End = 24600 Samples =  5700
+WordSeg[ 4]: Start = 26201  End = 31500 Samples =  5300
+WordSeg[ 5]: Start = 33801  End = 38600 Samples =  4800
+WordSeg[ 6]: Start = 41201  End = 47400 Samples =  6200
+WordSeg[ 7]: Start = 49901  End = 53500 Samples =  3600
+Speech File: MI100.wav
+Word Segments: 5
+WordSeg[ 1]: Start =   301  End =  5100 Samples =  4800
+WordSeg[ 2]: Start =  6901  End = 12900 Samples =  6000
+WordSeg[ 3]: Start = 13901  End = 18400 Samples =  4500
+WordSeg[ 4]: Start = 20001  End = 24800 Samples =  4800
+WordSeg[ 5]: Start = 27001  End = 30800 Samples =  3800
+Speech File: MI001.wav
+Word Segments: 8
+WordSeg[ 1]: Start =     1  End =  4200 Samples =  4200
+WordSeg[ 2]: Start =  6401  End = 11800 Samples =  5400
+WordSeg[ 3]: Start = 14001  End = 19100 Samples =  5100
+WordSeg[ 4]: Start = 20901  End = 25400 Samples =  4500
+WordSeg[ 5]: Start = 27801  End = 32700 Samples =  4900
+WordSeg[ 6]: Start = 35201  End = 39800 Samples =  4600
+WordSeg[ 7]: Start = 41801  End = 47000 Samples =  5200
+WordSeg[ 8]: Start = 49001  End = 52200 Samples =  3200
+Speech File: MI001.wav
+Word Segments: 8
+WordSeg[ 1]: Start =     1  End =  4200 Samples =  4200
+WordSeg[ 2]: Start =  6401  End = 11800 Samples =  5400
+WordSeg[ 3]: Start = 14001  End = 19100 Samples =  5100
+WordSeg[ 4]: Start = 20901  End = 25400 Samples =  4500
+WordSeg[ 5]: Start = 27801  End = 32700 Samples =  4900
+WordSeg[ 6]: Start = 35201  End = 39800 Samples =  4600
+WordSeg[ 7]: Start = 41801  End = 47000 Samples =  5200
+WordSeg[ 8]: Start = 49001  End = 52200 Samples =  3200
