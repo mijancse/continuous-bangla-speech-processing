@@ -28,10 +28,12 @@ Comparison study on some improved and faster BP algorithms:
 #### Levenberg-Marquardt Algorithm
 
 ### IMPLEMENTATION
-Using Matlab Neural Network Toolbox 7.12.0
+Using Matlab Neural Network Toolbox 8.9.0 (R2020a)
 
 ### DATASET
 100 (one hundred) Bangla sentences, recorded from 5 (five) speakers. There are 656 words in the 100 Bangla sentences. Thus, the speech database contains 500 (100x5) Bangla sentences with 3280 (656x5) words. 
+
+### M. M. Rahman, "Speech Recognition System for Continuous Bangla Speech", Github Repository. https://github.com/mijancse/continuous-bangla-speech-processing, 2021.
 
 ### Contact
 Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
